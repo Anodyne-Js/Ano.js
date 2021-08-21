@@ -6,6 +6,10 @@ A discord.js clone but more simple and have more features.
 ## Example usage:
 ```js
 const Bot = require('Coming.Soon');
-
-the format will probably be somthing like:
+```
+## Example Format:
+```js
 const Bot = new Ano.Bot(TOKEN, 'Owner_ID', 'Owner_ID_2', 'PREFIX')
+```
+
+# Note: The format is not official we may change it eventually.
