@@ -11,7 +11,7 @@ const Ano = require('ano.js');
 ```js
 const Bot = new Ano.Bot({
   token: TOKEN, 
-  prefix: PREFIX
+  prefix: PREFIX,
   owners: ['Owner_ID','Owner_ID_2']
 })
 ```
