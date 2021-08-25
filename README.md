@@ -1,5 +1,5 @@
-<img src="https://js.hexxlabs.xyz/anojs.png">
 <div align="center">
+<img src="https://js.hexxlabs.xyz/anojs.png">
  <b>Ano.js</b>
 </div>
 
