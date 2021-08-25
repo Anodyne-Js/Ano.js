@@ -40,4 +40,4 @@
 ## Links
 ### [Website](https://js.hexxlabs.xyz)
 ### [Discord](https://discord.gg/syVFHRaGzc)
-### [Github](https://github.com/ItsYaBoiElijah11/Ano.js)
+### [Github](https://github.com/Anodyne-Js)
