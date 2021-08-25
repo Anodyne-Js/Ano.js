@@ -13,7 +13,7 @@ const Bot = new Ano.Bot({
   token: TOKEN, 
   prefix: PREFIX,
   owners: ['Owner_ID','Owner_ID_2']
-})
+});
 ```
 
 ## Note: The format is not official we may change it eventually.
@@ -29,7 +29,7 @@ client.command({
   run {
   messag.send('Hi ${message.author.username}')
   }
-})
+});
 ```
 
 Note: basically none of this is official till otherwise
